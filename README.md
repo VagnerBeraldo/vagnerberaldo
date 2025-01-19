@@ -1,6 +1,6 @@
-## Olá eu sou Vagner Beraldo 👋
+## Olá, eu sou Vagner Beraldo 👋
 
-- 📖 Estudante de ADS no SENAC Santo Amaro
+- 📖 Estudante de ADS (SENAC Santo Amaro)
 - 💻 Tecnologias em foco atualmente: HTML, CSS, JS, REACT, JAVA e MYSQL
 
   <div style="display: inline_block"><br>
